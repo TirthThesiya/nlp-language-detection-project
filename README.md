@@ -1,8 +1,8 @@
 # nlp-language-detection-project
  A Machine Learning Project Using Natural Language Processing[NLP]
 
-## dataset was taken from kaggle : 
- [Language Detction](https://www.kaggle.com/datasets/basilb2s/language-detection)
+## Dataset : 
+ [Language Detction (Kaggle)](https://www.kaggle.com/datasets/basilb2s/language-detection)
 
  ## Languages that can be detected:
 
